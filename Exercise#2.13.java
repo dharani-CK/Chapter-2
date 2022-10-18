@@ -1,4 +1,4 @@
-/* This program prompts the user to enter a monthly saving amount and dis￾plays the account value after the sixth month. */
+/* This program prompts the user to enter a monthly saving amount and displays the account value after the sixth month. */
 
 import java.util.Scanner; //creating a scanner class
 
